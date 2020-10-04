@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,800;1,200;1,500;1,600;1,700&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.header-section{
+	padding: 100px 0;
+}
+.header-section h1{
+	    font-size: 38px;
+    font-weight: 400;
+}
+.header-section p{
+	    font-size: 18px;
+    font-weight: 300;
+    margin: 20px 0;
+}
+.header-section .col-xl-5{
+	margin-right: 70px;
+}
+.companies-section{
+	background:#f1f4fb;
+	padding: 20px 0;
+}
+.companies-section h4{
+	    font-size: 22px;
+    font-weight: 400;
+}
+.companies-section ul li{
+	list-style: none;
+	margin:22px 0;
+}
+.problem-fix{
+	padding:70px 0; 
+}
+.problem-fix h2{
+	    font-size: 30px;
+    font-weight: 400;
+}
+.problem-fix .container .fix{
+	padding: 50px;
+}
+.problem-fix .container .fix  p{
+	    font-size: 20px;
+    font-weight: 100;
+    padding: 10px 155px
+}
+.problem-fix .container .row h3{
+	font-size: 24px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.problem-fix .container .row p{
+	    font-size: 15px;
+    font-weight: 400;
+}
+.solutions{
+	padding: 50px 0
+}
+.solutions .solutions-text{
+	padding: 10px 0;
+}
+.result h2{
+	padding: 50px 0;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+}
+.benifits {
+	padding: 30px 0
+}
+.benifits h1 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    padding: 50px 0;
+}
+.benifits .row h4{
+	padding: 20px 0
+}
+.visitors-section {
+	background:#237be5;
+}
+.video-section{
+	padding: 50px 0;
+}
+.footer-section{
+	background: #f1f4fb;
+	padding: 10px 0;
+}
+.footer-section .logo{
+	color:#333;
+	font-size: 30px
+}
+.footer-section ul li{
+	list-style: none;
+}
+.footer-section ul li a{
+	text-decoration: none;
+	padding: 15px 10px;
+	display: inline-block;
+}
